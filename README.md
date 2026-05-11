@@ -2,6 +2,7 @@
 Projeto desenvolvido para a disciplina de Interação Humano Computador e UXCurso: Ciência da Computação
 ## Alunos:
 Lucas Alves Oliveira. RA - 326129404
+
 Luis Gustavo Coelho de Melo. RA - 32616684
 ## Persona
 O aplicativo foi pensado para estudantes e pessoas que dividem casa, apartamento ou viagens e precisam organizar contas em grupo de forma mais simples.
