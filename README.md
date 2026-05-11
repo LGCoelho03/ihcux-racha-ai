@@ -19,4 +19,6 @@ Cadastro de uma conta de luz dividida entre 3 pessoas:
 6. Seleciona os participantes da divisão.
 7. Salva o gasto.
 8. O sistema mostra quanto cada pessoa deve pagar.
-## Arquivos do projeto:
+## Print do projeto:
+<img width="1385" height="712" alt="RachaAI" src="https://github.com/user-attachments/assets/639ec984-fd70-4af0-a5de-787a05869c0b" />
+
